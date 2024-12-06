@@ -1,0 +1,10 @@
+print('Olá Mundo')
+print('OLá Mundo')
+print('Boa tarde Carlos')
+print('Good Afternon')
+print("Bom dia Sophia, Qual seu problema?")
+print ('Oi Rodrigo, Como posso te auxiliar da melhor forma?')
+print('Boa noite, poderia resolver seu problema no período da manhã?')
+print('Tenho uma orientação para fazer a turma sobre os informes que foram passados em aula')
+print('Bom dia, tudo bem?
+print('a empresa tem informes sobre sua conduta')
